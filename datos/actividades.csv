@@ -1,0 +1,6 @@
+id_actividad,id_grupo,fecha,descripcion,estado
+1,1,2025-10-10,Programación orientada a objetos,Pendiente
+2,1,2025-10-15,Estructuras de datos,Realizada
+3,2,2025-10-20,Ejercicios de listas,Pendiente
+4,2,2025-10-22,Bajo nivel de participación,Pendiente
+55,11,2025-10-29,Moléculas,Pendiente
